@@ -1,5 +1,6 @@
 import Message from './Message'
 
+
 function Chat({ messages, addMessage }) {
   return (
     <div className="chat">
